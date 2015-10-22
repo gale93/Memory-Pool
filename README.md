@@ -16,8 +16,7 @@ int main()
 
 	MP_draw(1);
 	
-	MP_set(0);
-	return 0;
+	return MP_set(0);
 }
 ```
 
